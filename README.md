@@ -19,10 +19,6 @@ This workshop is designed to teach Test-Driven Development (TDD) fundamentals us
    ```bash
    npm test
    ```
-   For development with auto-reload:
-   ```bash
-   npm run test:watch
-   ```
 
 ## Workshop Structure
 
@@ -102,10 +98,6 @@ Expected learning outcomes:
 - Mocking with Jest
 - Dependency injection
 - Error handling in async context
-
-## Solutions
-
-Reference solutions are available in the `src/solutions` directory, but try to solve the exercises yourself first!
 
 ## Tips
 - Write the minimum code needed to make tests pass
